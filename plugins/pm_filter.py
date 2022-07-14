@@ -87,7 +87,7 @@ async def filter(client, message):
 
 <b>Here is Your Result 👇🏼👇🏼</b>
 
-<b>🗂️ Title :- <a href="https://t.me/+pET5otIzN60yNTc1" >{query}</a> </b>
+<b>🗂️ Title :- <a href="https://t.me/+pET5otIzN60yNTc1" >{search}</a> </b>
 
 <b>💿 Quality :- HD, Blu-Ray, Etc</b>
 
