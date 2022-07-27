@@ -327,7 +327,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('Join Us', url='https://t.me/Tentkotta_Films')
                 ]
                 ]
-            await query.message.edit(text="Source Code : <a href='https://github.com/subinps/Media-Search-bot'>Click here</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="🏏 Cricket Buzz : <a href='https://t.me/tentkotta_cricket'>Click Here ✨</a>\nUpdate Channel : <a href='https://t.me/subin_works'>XTZ Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
